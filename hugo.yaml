@@ -1,4 +1,4 @@
-baseURL: "https://hugo-profile.netlify.app"
+baseURL: "https://zijieyanhw.github.io/yanzj-sBlog/"
 languageCode: "en-us"
 title: "yanzj的博客"
 theme: profile
@@ -332,14 +332,14 @@ params:
         image: /images/projects/profile.png
         featured:
           name: Demo
-          link: https://hugo-profile.netlify.app
+          link: https://zijieyanhw.github.io/yanzj-sBlog/
         badges:
           - "Hugo"
           - "Bootstrap"
           - "Javascript"
         links:
           - icon: fa fa-envelope
-            url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+            url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fzijieyanhw.github.io%2fyanzj-sBlog%2fblog%2fmarkdown-syntax%2f
           - icon: fab fa-github
             url: https://github.com/gurusabarish/hugo-profile
           - icon: fab fa-twitter
