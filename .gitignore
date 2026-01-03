@@ -1,22 +1,28 @@
-/config.yaml
-/content
-/static/images
-.vscode
+# Compiled Object files, Static and Dynamic libs (Shared Objects)
+*.o
+*.a
+*.so
 
-### Hugo ###
-# Generated files by hugo
-/public/
-/exampleSite/public/
-/resources/_gen/
-/assets/jsconfig.json
-hugo_stats.json
+# Folders
+_obj
+_test
 
-# Executable may be added to repository
-hugo.exe
-hugo.darwin
-hugo.linux
+# Architecture specific extensions/prefixes
+*.[568vq]
+[568vq].out
 
-# Temporary lock file while building
+*.cgo1.go
+*.cgo2.c
+_cgo_defun.c
+_cgo_gotypes.go
+_cgo_export.*
+
+_testmain.go
+
+*.exe
+*.test
+
+/public
+.DS_Store
 .hugo_build.lock
-
-.prettierignore
+resources/_gen/
