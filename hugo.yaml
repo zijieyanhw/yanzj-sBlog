@@ -34,8 +34,8 @@ markup:
 
 Menus:
   main:
-    - identifier: 博客
-      name: Blog
+    - identifier: blog
+      name: 博客
       title: Blog posts
       url: /blogs
       weight: 1
