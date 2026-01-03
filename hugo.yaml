@@ -3,6 +3,10 @@ languageCode: "en-us"
 title: "yanzj的博客"
 theme: profile
 
+# 添加这些配置
+canonifyURLs: true
+relativeURLs: false
+
 outputs:
   home:
     - "HTML"
