@@ -34,7 +34,7 @@ markup:
 
 Menus:
   main:
-    - identifier: blog
+    - identifier: 博客
       name: Blog
       title: Blog posts
       url: /blogs
